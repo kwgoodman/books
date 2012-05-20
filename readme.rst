@@ -74,9 +74,9 @@ Dec    Animal Farm                                          George Orwell
 ===  =====================================================  ==================
 
 2012
-----
+====
 
-===  ==============================================    ==================
+===  ==============================================    =================
 Jan  **One Hundred Years of Solitude** [1]_            G. Márquez
 Jan    Miss Peregrine's Home for Peculiar Children     R. Riggs
 Jan    Neuromancer [1]_                                William Gibson
