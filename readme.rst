@@ -53,7 +53,7 @@ Dec    Joe College                            Tom Perrotta
 2011
 ====
 
-===  ====================================================   ==================
+===  =====================================================  ==================
 Jan    Spies of the Balkans                                 Alan Furst
 Jan    Mockingjay                                           Suzanne Collins
 Jan  **The Maltese Falcon** [1]_                            Dashiell Hammett
@@ -71,7 +71,7 @@ Dec    The Graveyard Book                                   Neil Gaiman
 Dec    Absolutely True Diary of a Part-Time Indian          Sherman Alexie
 Dec    Vertical                                             Rex Pickett
 Dec    Animal Farm                                          George Orwell
-===  ====================================================   ==================
+===  =====================================================  ==================
 
 2012
 ----
