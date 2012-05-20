@@ -76,9 +76,9 @@ Dec    Animal Farm                                          George Orwell
 2012
 ====
 
-===  ==============================================    =================
-Jan  **One Hundred Years of Solitude** [1]_            G. Márquez
-Jan    Miss Peregrine's Home for Peculiar Children     R. Riggs
+===  ==============================================    =======================
+Jan  **One Hundred Years of Solitude** [1]_            Gabriel García Márquez
+Jan    Miss Peregrine's Home for Peculiar Children     Ransom Riggs
 Jan    Neuromancer [1]_                                William Gibson
 Feb    The Leftovers                                   Tom Perrotta
 Feb  **Reamde**                                        Neal Stephenson
@@ -90,6 +90,6 @@ Apr    The Handmaid's Tale                             Margaret Atwood
 Apr  **City of Thieves**                               David Benioff
 May    Lolita                                          Vladimir Nabokov
 May    The 25th Hour                                   David Benioff
-===  ==============================================    =================
+===  ==============================================    =======================
 
 .. [1] Re-read
