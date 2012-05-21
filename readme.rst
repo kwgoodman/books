@@ -1,95 +1,95 @@
-2008
+2012
 ====
 
-==============  ===================
-**1984**        George Orwell
-Treasure Box    Orson Scott Card
-Ship of Fools   Richard Paul Russo
-Ubik            Philip K. Dick
-==============  ===================
-    
-2009
-====
-
-=====  =============================    ===============
-Jan    **The Whiskey Rebels**           David Liss     
-Apr    This Book will Save your Life    A.M. Homes     
-Apr    **Sideways**                     Rex Pickett    
-Apr    The Geographer's Library         Jon Fasman     
-May    **Bringing out the Dead**        Joe Connnely   
-Jul    Coraline                         Neil Gaiman    
-Oct    **Friday Night Lights**          H.G. Bissinger 
-Nov    **I Love You, Beth Cooper**      Larry Doyle    
-Dec    The Return                       Hakan Nesser   
-=====  =============================    ===============
-
-2010
-====
-
-===  =======================================  ==================
-Feb    Lush Life                              Richard Price     
-Mar    The Last Picture Show                  Larry McMurtry    
-Mar    The Girl with the Dragon Tattoo        Stieg Larsson     
-Mar  **Hole in My Life**                      Jack Gantos       
-Mar  **The Catcher in the Rye**               J.D. Salinger     
-Apr    The Housekeeper and the Professor      Yoko Ogawa        
-May    The Girl who Played with Fire          Stieg Larsson     
-Jun  **Youth in Revolt**                      C.D. Payne        
-Jul    Starship Troopers                      Robert A. Heinlein
-Aug    The Girl Who Kicked the Hornet's Nest  Steig Larsson     
-Aug    The City of Ember                      Jeanne DuPrau     
-Aug    In the Shadow of Gotham                Stefanie Pintoff  
-Sep    The Big Short                          Michael Lewis     
-Sep    The Abstinence Teacher                 Tom Perrotta      
-Oct    The Foreign Correspondent              Alan Furst        
-Oct    Election                               Tom Perrotta      
-Oct    Hunger Games                           Suzanne Collins   
-Dec    Revolting Youth                        C.D. Payne        
-Dec    Catching Fire                          Suzanna Collins   
-Dec    The Giver                              Lois Lowry        
-Dec    Joe College                            Tom Perrotta      
-===  =======================================  ==================
+===  ==============================================    =======================
+May    The 25th Hour                                   David Benioff
+May    Lolita                                          Vladimir Nabokov
+Apr  **City of Thieves**                               David Benioff
+Apr    The Handmaid's Tale                             Margaret Atwood
+Apr    Hatchet                                         Gary Paulsen
+Mar    Sick Puppy                                      Carl Hiaasen
+Mar    To Kill a Mockingbird                           Harper Lee
+Feb  **When You Reach Me**                             Rebecca Stead
+Feb  **Reamde**                                        Neal Stephenson
+Feb    The Leftovers                                   Tom Perrotta
+Jan    Neuromancer [1]_                                William Gibson
+Jan    Miss Peregrine's Home for Peculiar Children     Ransom Riggs
+Jan  **One Hundred Years of Solitude** [1]_            Gabriel García Márquez
+===  ==============================================    =======================
 
 2011
 ====
 
 ===  =====================================================  ==================
-Jan    Spies of the Balkans                                 Alan Furst
-Jan    Mockingjay                                           Suzanne Collins
-Jan  **The Maltese Falcon** [1]_                            Dashiell Hammett
-Jan    Ender's Game [1]_                                    Orson Scott Card 
-Feb  **I am the Cheese**                                    Robert Cormier
-Feb  **The Chocolate War**                                  Robert Cormier
-Feb    Shopgirl                                             Steve Martin
-May    The Magicians                                        Lev Grossman
-Jul    Little Brother                                       Cory Doctorow
-Jul    Hold Me Closer, Necromancer                          Lish McBride
-Oct    Stone's Fall                                         Iain Pears
-Nov  **The Curious Incident of the Dog in the Night-Time**  Haddon
-Dec    Will Grayson, Will Grayson                           Green/Levithan
-Dec    The Graveyard Book                                   Neil Gaiman
-Dec    Absolutely True Diary of a Part-Time Indian          Sherman Alexie
-Dec    Vertical                                             Rex Pickett
 Dec    Animal Farm                                          George Orwell
+Dec    Vertical                                             Rex Pickett
+Dec    Absolutely True Diary of a Part-Time Indian          Sherman Alexie
+Dec    The Graveyard Book                                   Neil Gaiman
+Dec    Will Grayson, Will Grayson                           Green/Levithan
+Nov  **The Curious Incident of the Dog in the Night-Time**  Haddon
+Oct    Stone's Fall                                         Iain Pears
+Jul    Hold Me Closer, Necromancer                          Lish McBride
+Jul    Little Brother                                       Cory Doctorow
+May    The Magicians                                        Lev Grossman
+Feb    Shopgirl                                             Steve Martin
+Feb  **The Chocolate War**                                  Robert Cormier
+Feb  **I am the Cheese**                                    Robert Cormier
+Jan    Ender's Game [1]_                                    Orson Scott Card 
+Jan  **The Maltese Falcon** [1]_                            Dashiell Hammett
+Jan    Mockingjay                                           Suzanne Collins
+Jan    Spies of the Balkans                                 Alan Furst
 ===  =====================================================  ==================
 
-2012
+2010
 ====
 
-===  ==============================================    =======================
-Jan  **One Hundred Years of Solitude** [1]_            Gabriel García Márquez
-Jan    Miss Peregrine's Home for Peculiar Children     Ransom Riggs
-Jan    Neuromancer [1]_                                William Gibson
-Feb    The Leftovers                                   Tom Perrotta
-Feb  **Reamde**                                        Neal Stephenson
-Feb  **When You Reach Me**                             Rebecca Stead
-Mar    To Kill a Mockingbird                           Harper Lee
-Mar    Sick Puppy                                      Carl Hiaasen
-Apr    Hatchet                                         Gary Paulsen
-Apr    The Handmaid's Tale                             Margaret Atwood
-Apr  **City of Thieves**                               David Benioff
-May    Lolita                                          Vladimir Nabokov
-May    The 25th Hour                                   David Benioff
-===  ==============================================    =======================
+===  =======================================  ==================
+Dec    Joe College                            Tom Perrotta      
+Dec    The Giver                              Lois Lowry        
+Dec    Catching Fire                          Suzanna Collins   
+Dec    Revolting Youth                        C.D. Payne        
+Oct    Hunger Games                           Suzanne Collins   
+Oct    Election                               Tom Perrotta      
+Oct    The Foreign Correspondent              Alan Furst        
+Sep    The Abstinence Teacher                 Tom Perrotta      
+Sep    The Big Short                          Michael Lewis     
+Aug    In the Shadow of Gotham                Stefanie Pintoff  
+Aug    The City of Ember                      Jeanne DuPrau     
+Aug    The Girl Who Kicked the Hornet's Nest  Steig Larsson     
+Jul    Starship Troopers                      Robert A. Heinlein
+Jun  **Youth in Revolt**                      C.D. Payne        
+May    The Girl who Played with Fire          Stieg Larsson     
+Apr    The Housekeeper and the Professor      Yoko Ogawa        
+Mar  **The Catcher in the Rye**               J.D. Salinger     
+Mar  **Hole in My Life**                      Jack Gantos       
+Mar    The Girl with the Dragon Tattoo        Stieg Larsson     
+Mar    The Last Picture Show                  Larry McMurtry    
+Feb    Lush Life                              Richard Price     
+===  =======================================  ==================
+
+2009
+====
+
+=====  =============================    ===============
+Dec    The Return                       Hakan Nesser   
+Nov    **I Love You, Beth Cooper**      Larry Doyle    
+Oct    **Friday Night Lights**          H.G. Bissinger 
+Jul    Coraline                         Neil Gaiman    
+May    **Bringing out the Dead**        Joe Connnely   
+Apr    The Geographer's Library         Jon Fasman     
+Apr    **Sideways**                     Rex Pickett    
+Apr    This Book will Save your Life    A.M. Homes     
+Jan    **The Whiskey Rebels**           David Liss     
+=====  =============================    ===============
+
+2008
+====
+ 
+==============  ===================
+Ubik            Philip K. Dick
+Ship of Fools   Richard Paul Russo
+Treasure Box    Orson Scott Card
+**1984**        George Orwell
+==============  ===================
 
 .. [1] Re-read
