@@ -27,7 +27,7 @@ Dec    Vertical                                             Rex Pickett
 Dec    Absolutely True Diary of a Part-Time Indian          Sherman Alexie
 Dec    The Graveyard Book                                   Neil Gaiman
 Dec    Will Grayson, Will Grayson                           Green/Levithan
-Nov  **The Curious Incident of the Dog in the Night-Time**  Haddon
+Nov  **The Curious Incident of the Dog in the Night-Time**  Mark Haddon
 Oct    Stone's Fall                                         Iain Pears
 Jul    Hold Me Closer, Necromancer                          Lish McBride
 Jul    Little Brother                                       Cory Doctorow
