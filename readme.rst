@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+May    It's Kind of a Funny Story                      Ned Vizzini
 May    The London Eye Mystery                          Siobhan Dowd
 May    The 25th Hour                                   David Benioff
 May    Lolita                                          Vladimir Nabokov
