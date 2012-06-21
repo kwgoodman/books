@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Jun    Paper Towns                                     John Green
 Jun    Being There                                     Jerzy Kosinski
 Jun    Be more chill                                   Ned Vizzini
 Jun    The Shining                                     Stephen King
