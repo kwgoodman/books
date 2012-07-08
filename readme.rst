@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Jul    **In the Garden of Beasts**                     Erik Larson
 Jun    Dark Voyage                                     Alan Furst
 Jun    Matchstick Men                                  Eric Garcia
 Jun    Paper Towns                                     John Green
