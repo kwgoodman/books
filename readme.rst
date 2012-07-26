@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Jul    Stargirl                                        Jerry Spinelli
 Jul    Ragtime                                         E.L. Doctorow
 Jul    **In the Garden of Beasts**                     Erik Larson
 Jun    Dark Voyage                                     Alan Furst
