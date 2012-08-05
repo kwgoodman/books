@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Aug    **Lord of the Flies** [1]_                      William Golding
 Jul    Stargirl                                        Jerry Spinelli
 Jul    Ragtime                                         E.L. Doctorow
 Jul    **In the Garden of Beasts**                     Erik Larson
