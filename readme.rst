@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Aug    Aunt Julia and the Scriptwriter                 Mario Vargas Llosa
 Aug    Snuff                                           Chuck Palahniuk
 Aug    **Lord of the Flies** [1]_                      William Golding
 Jul    Stargirl                                        Jerry Spinelli
@@ -47,7 +48,7 @@ May    The Magicians                                        Lev Grossman
 Feb    Shopgirl                                             Steve Martin
 Feb  **The Chocolate War**                                  Robert Cormier
 Feb  **I am the Cheese**                                    Robert Cormier
-Jan    Ender's Game [1]_                                    Orson Scott Card 
+Jan    Ender's Game [1]_                                    Orson Scott Card
 Jan  **The Maltese Falcon** [1]_                            Dashiell Hammett
 Jan    Mockingjay                                           Suzanne Collins
 Jan    Spies of the Balkans                                 Alan Furst
@@ -57,42 +58,42 @@ Jan    Spies of the Balkans                                 Alan Furst
 ====
 
 ===  =======================================  ==================
-Dec    Joe College                            Tom Perrotta      
-Dec    The Giver                              Lois Lowry        
-Dec    Catching Fire                          Suzanna Collins   
-Dec    Revolting Youth                        C.D. Payne        
-Oct    Hunger Games                           Suzanne Collins   
-Oct    Election                               Tom Perrotta      
-Oct    The Foreign Correspondent              Alan Furst        
-Sep    The Abstinence Teacher                 Tom Perrotta      
-Sep    The Big Short                          Michael Lewis     
-Aug    In the Shadow of Gotham                Stefanie Pintoff  
-Aug    The City of Ember                      Jeanne DuPrau     
-Aug    The Girl Who Kicked the Hornet's Nest  Steig Larsson     
+Dec    Joe College                            Tom Perrotta
+Dec    The Giver                              Lois Lowry
+Dec    Catching Fire                          Suzanne Collins
+Dec    Revolting Youth                        C.D. Payne
+Oct    Hunger Games                           Suzanne Collins
+Oct    Election                               Tom Perrotta
+Oct    The Foreign Correspondent              Alan Furst
+Sep    The Abstinence Teacher                 Tom Perrotta
+Sep    The Big Short                          Michael Lewis
+Aug    In the Shadow of Gotham                Stefanie Pintoff
+Aug    The City of Ember                      Jeanne DuPrau
+Aug    The Girl Who Kicked the Hornet's Nest  Steig Larsson
 Jul    Starship Troopers                      Robert A. Heinlein
-Jun  **Youth in Revolt**                      C.D. Payne        
-May    The Girl who Played with Fire          Stieg Larsson     
-Apr    The Housekeeper and the Professor      Yoko Ogawa        
-Mar  **The Catcher in the Rye**               J.D. Salinger     
-Mar  **Hole in My Life**                      Jack Gantos       
-Mar    The Girl with the Dragon Tattoo        Stieg Larsson     
-Mar    The Last Picture Show                  Larry McMurtry    
-Feb    Lush Life                              Richard Price     
+Jun  **Youth in Revolt**                      C.D. Payne
+May    The Girl who Played with Fire          Stieg Larsson
+Apr    The Housekeeper and the Professor      Yoko Ogawa
+Mar  **The Catcher in the Rye**               J.D. Salinger
+Mar  **Hole in My Life**                      Jack Gantos
+Mar    The Girl with the Dragon Tattoo        Stieg Larsson
+Mar    The Last Picture Show                  Larry McMurtry
+Feb    Lush Life                              Richard Price
 ===  =======================================  ==================
 
 2009
 ====
 
 =====  =============================    ===============
-Dec    The Return                       Hakan Nesser   
-Nov    **I Love You, Beth Cooper**      Larry Doyle    
-Oct    **Friday Night Lights**          H.G. Bissinger 
-Jul    Coraline                         Neil Gaiman    
-May    **Bringing out the Dead**        Joe Connnely   
-Apr    The Geographer's Library         Jon Fasman     
-Apr    **Sideways**                     Rex Pickett    
-Apr    This Book will Save your Life    A.M. Homes     
-Jan    **The Whiskey Rebels**           David Liss     
+Dec    The Return                       Hakan Nesser
+Nov    **I Love You, Beth Cooper**      Larry Doyle
+Oct    **Friday Night Lights**          H.G. Bissinger
+Jul    Coraline                         Neil Gaiman
+May    **Bringing out the Dead**        Joe Connnely
+Apr    The Geographer's Library         Jon Fasman
+Apr    **Sideways**                     Rex Pickett
+Apr    This Book will Save your Life    A.M. Homes
+Jan    **The Whiskey Rebels**           David Liss
 =====  =============================    ===============
 
 2008
