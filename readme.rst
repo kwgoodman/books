@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Aug    The Kite Runner                                 Khaled Hosseini
 Aug    Aunt Julia and the Scriptwriter                 Mario Vargas Llosa
 Aug    Snuff                                           Chuck Palahniuk
 Aug    **Lord of the Flies** [1]_                      William Golding
