@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Aug    Liar & Spy                                      Rebecca Stead
 Aug    The Perks of Being a Wallflower                 Stephen Chbosky
 Aug    The Kite Runner                                 Khaled Hosseini
 Aug    Aunt Julia and the Scriptwriter                 Mario Vargas Llosa
