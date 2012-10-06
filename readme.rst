@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Oct    Cryptonomicon [1]_                              Neal Stephenson
 Aug    Liar & Spy                                      Rebecca Stead
 Aug    The Perks of Being a Wallflower                 Stephen Chbosky
 Aug    The Kite Runner                                 Khaled Hosseini
