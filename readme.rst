@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Oct    Necromancing the Stone                          Lish McBride
 Oct    Cryptonomicon [1]_                              Neal Stephenson
 Aug    Liar & Spy                                      Rebecca Stead
 Aug    The Perks of Being a Wallflower                 Stephen Chbosky
