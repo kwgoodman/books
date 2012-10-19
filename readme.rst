@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Oct    Mission to Paris                                Alan Furst
 Oct    Necromancing the Stone                          Lish McBride
 Oct    Cryptonomicon [1]_                              Neal Stephenson
 Aug    Liar & Spy                                      Rebecca Stead
