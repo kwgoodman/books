@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Oct    It's Not Carpal Tunnel Syndrome!                Damany and Bellis
 Oct    Mission to Paris                                Alan Furst
 Oct    Necromancing the Stone                          Lish McBride
 Oct    Cryptonomicon [1]_                              Neal Stephenson
