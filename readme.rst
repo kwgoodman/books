@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Nov    **The Right Stuff**                             Tom Wolfe
 Oct    It's Not Carpal Tunnel Syndrome!                Damany and Bellis
 Oct    Mission to Paris                                Alan Furst
 Oct    Necromancing the Stone                          Lish McBride
