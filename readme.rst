@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Nov    Red to Black                                    Alex Dryden
 Nov    **The Right Stuff**                             Tom Wolfe
 Oct    It's Not Carpal Tunnel Syndrome!                Damany and Bellis
 Oct    Mission to Paris                                Alan Furst
