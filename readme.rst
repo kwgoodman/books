@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Dec    Among Others                                    Jo Walton
 Dec    The Unpossessed City                            Jon Fasman
 Nov    **A Separate Peace**                            John Knowles
 Nov    Red to Black                                    Alex Dryden
