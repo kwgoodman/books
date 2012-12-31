@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Dec    **The Fellowship of the Ring** [1]_             J.R.R. Tolkien
 Dec    Among Others                                    Jo Walton
 Dec    The Unpossessed City                            Jon Fasman
 Nov    **A Separate Peace**                            John Knowles
