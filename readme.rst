@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Feb    Gone Girl                                       Gillian Flynn
 Feb    Wild                                            Cheryl Strayed
 Feb    Cat's Cradle                                    Kurt Vonnegut
 Jan    The Return of the King                          J.R.R. Tolkien
