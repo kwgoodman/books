@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Jun    Snow Crash                                      Neal Stephenson
 May    **Practical Vim**                               Drew Neil
 May    A Fine Balance                                  Rohinton Mistry
 Apr    **Pulp** [1]_                                   Charles Bukowski
