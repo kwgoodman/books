@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Jun    Master and Commander                            Patrick O'Brian
 Jun    Snow Crash                                      Neal Stephenson
 May    **Practical Vim**                               Drew Neil
 May    A Fine Balance                                  Rohinton Mistry
