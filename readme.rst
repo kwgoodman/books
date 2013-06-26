@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Jun    Do Androids Dream of Electric Sheep?            Philip K. Dick
 Jun    Master and Commander                            Patrick O'Brian
 Jun    Snow Crash                                      Neal Stephenson
 May    **Practical Vim**                               Drew Neil
