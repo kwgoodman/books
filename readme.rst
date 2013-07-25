@@ -2,6 +2,7 @@
 ====
 
 ===  ==============================================    =======================
+Jul    Billy Lynn's Long Halftime Walk                 Ben Fountain
 Jul    In a Sunburned Country                          Bill Bryson
 Jun    Dead End in Norvelt                             Jack Gantos
 Jun    Do Androids Dream of Electric Sheep?            Philip K. Dick
