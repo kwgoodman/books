@@ -1,7 +1,8 @@
 2013
 ====
 
-===  ==============================================    =======================
+===  ===============================================   =======================
+Jul    Harry Potter and the Philosopher's Stone [1]_   J.K. Rowling
 Jul    Billy Lynn's Long Halftime Walk                 Ben Fountain
 Jul    In a Sunburned Country                          Bill Bryson
 Jun    Dead End in Norvelt                             Jack Gantos
@@ -22,7 +23,7 @@ Feb    Wild                                            Cheryl Strayed
 Feb    Cat's Cradle                                    Kurt Vonnegut
 Jan    The Return of the King                          J.R.R. Tolkien
 Jan    **The Two Towers**                              J.R.R. Tolkien
-===  ==============================================    =======================
+===  ===============================================   =======================
 
 2012
 ====
