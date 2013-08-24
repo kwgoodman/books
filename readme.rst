@@ -2,6 +2,7 @@
 ====
 
 ===  ===============================================   =======================
+Aug    Post Captain                                    Patrick O'Brian
 Aug    Harry Potter and the Chamber of Secrets [1]_    J.K. Rowling
 Jul    Post Office [1]_                                Charles Bukowski
 Jul    Harry Potter and the Philosopher's Stone [1]_   J.K. Rowling
