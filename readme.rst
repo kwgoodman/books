@@ -2,6 +2,7 @@
 ====
 
 ===  ===============================================   =======================
+Oct    **Dark Star**                                   Alan Furst
 Sep    H.M.S. Surprise                                 Patrick O'Brian
 Sep    Harry Potter and the Prisoner of Azkaban [1]_   J.K. Rowling
 Sep    Factotum                                        Charles Bukowski
