@@ -2,6 +2,7 @@
 ====
 
 ===  ===============================================   =======================
+Nov    **Harry Potter and the Goblet of Fire** [1]_    J.K. Rowling
 Oct    Women                                           Charles Bukowski
 Oct    **Dark Star**                                   Alan Furst
 Sep    H.M.S. Surprise                                 Patrick O'Brian
