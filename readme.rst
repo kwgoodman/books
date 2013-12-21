@@ -2,6 +2,7 @@
 ====
 
 ===  ===============================================   =======================
+Dec    **Short Cuts**                                  Raymond Carver
 Dec    Ham on Rye                                      Charles Bukowski
 Dec    The Polish Officer [1]_                         Alan Furst
 Nov    The Mauritius Command                           Patrick O'Brian
