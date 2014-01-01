@@ -1,43 +1,44 @@
 2013
 ====
 
-===  ===============================================   =======================
-Dec    **Short Cuts**                                  Raymond Carver
-Dec    Ham on Rye                                      Charles Bukowski
-Dec    The Polish Officer [1]_                         Alan Furst
-Nov    The Mauritius Command                           Patrick O'Brian
-Nov    **Harry Potter and the Goblet of Fire** [1]_    J.K. Rowling
-Oct    Women                                           Charles Bukowski
-Oct    **Dark Star**                                   Alan Furst
-Sep    H.M.S. Surprise                                 Patrick O'Brian
-Sep    Harry Potter and the Prisoner of Azkaban [1]_   J.K. Rowling
-Sep    Factotum                                        Charles Bukowski
-Sep    Night Soldiers                                  Alan Furst
-Aug    Post Captain                                    Patrick O'Brian
-Aug    Harry Potter and the Chamber of Secrets [1]_    J.K. Rowling
-Jul    Post Office [1]_                                Charles Bukowski
-Jul    Harry Potter and the Philosopher's Stone [1]_   J.K. Rowling
-Jul    Billy Lynn's Long Halftime Walk                 Ben Fountain
-Jul    In a Sunburned Country                          Bill Bryson
-Jun    Dead End in Norvelt                             Jack Gantos
-Jun    Do Androids Dream of Electric Sheep?            Philip K. Dick
-Jun    Master and Commander                            Patrick O'Brian
-Jun    Snow Crash                                      Neal Stephenson
-May    **Practical Vim**                               Drew Neil
-May    A Fine Balance                                  Rohinton Mistry
-Apr    **Pulp** [1]_                                   Charles Bukowski
-Apr    **Ready Player One**                            Ernest Cline
-Apr    Kafka on the Shore                              Haruki Murakami
-Apr    A Walk in the Woods                             Bill Bryson                        
-Mar    Pulp Fiction (screenplay) [1]_                  Quentin Tarantino
-Mar    Homeland                                        Cory Doctorow
-Mar    Mr. Penumbra's 24-Hour Bookstore                Robin Sloan
-Feb    Gone Girl                                       Gillian Flynn
-Feb    Wild                                            Cheryl Strayed
-Feb    Cat's Cradle                                    Kurt Vonnegut
-Jan    The Return of the King                          J.R.R. Tolkien
-Jan    **The Two Towers**                              J.R.R. Tolkien
-===  ===============================================   =======================
+===  ================================================   =======================
+Dec    Harry Potter and the Order of the Phoenix [1]_   J.K. Rowling
+Dec    **Short Cuts**                                   Raymond Carver
+Dec    Ham on Rye                                       Charles Bukowski
+Dec    The Polish Officer [1]_                          Alan Furst
+Nov    The Mauritius Command                            Patrick O'Brian
+Nov    **Harry Potter and the Goblet of Fire** [1]_     J.K. Rowling
+Oct    Women                                            Charles Bukowski
+Oct    **Dark Star**                                    Alan Furst
+Sep    H.M.S. Surprise                                  Patrick O'Brian
+Sep    Harry Potter and the Prisoner of Azkaban [1]_    J.K. Rowling
+Sep    Factotum                                         Charles Bukowski
+Sep    Night Soldiers                                   Alan Furst
+Aug    Post Captain                                     Patrick O'Brian
+Aug    Harry Potter and the Chamber of Secrets [1]_     J.K. Rowling
+Jul    Post Office [1]_                                 Charles Bukowski
+Jul    Harry Potter and the Philosopher's Stone [1]_    J.K. Rowling
+Jul    Billy Lynn's Long Halftime Walk                  Ben Fountain
+Jul    In a Sunburned Country                           Bill Bryson
+Jun    Dead End in Norvelt                              Jack Gantos
+Jun    Do Androids Dream of Electric Sheep?             Philip K. Dick
+Jun    Master and Commander                             Patrick O'Brian
+Jun    Snow Crash                                       Neal Stephenson
+May    **Practical Vim**                                Drew Neil
+May    A Fine Balance                                   Rohinton Mistry
+Apr    **Pulp** [1]_                                    Charles Bukowski
+Apr    **Ready Player One**                             Ernest Cline
+Apr    Kafka on the Shore                               Haruki Murakami
+Apr    A Walk in the Woods                              Bill Bryson                        
+Mar    Pulp Fiction (screenplay) [1]_                   Quentin Tarantino
+Mar    Homeland                                         Cory Doctorow
+Mar    Mr. Penumbra's 24-Hour Bookstore                 Robin Sloan
+Feb    Gone Girl                                        Gillian Flynn
+Feb    Wild                                             Cheryl Strayed
+Feb    Cat's Cradle                                     Kurt Vonnegut
+Jan    The Return of the King                           J.R.R. Tolkien
+Jan    **The Two Towers**                               J.R.R. Tolkien
+===  ================================================   =======================
 
 2012
 ====
