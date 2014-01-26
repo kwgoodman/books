@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jan  Desolation Island                                  Patrick O'Brian
 Jan  Killing Floor                                      Lee Child
 Jan  The Unknowns                                       Gabriel Roth
 ===  ================================================   =======================
