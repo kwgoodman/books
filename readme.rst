@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Feb  The Circle                                         Dave Eggers
 Feb  Harry Potter and the Half-Blood Prince [1]_        J.K. Rowling
 Feb  Nine Stories                                       J.D. Salinger
 Jan  Desolation Island                                  Patrick O'Brian
