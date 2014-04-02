@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Apr  **Harry Potter and the Deathly Hallows** [1]_      J.K. Rowling
 Mar  Al Capone does my Shirts                           Gennifer Choldenko
 Mar  The Road                                           Cormac McCarthy
 Mar  Eight Plus One                                     Robert Cormier
