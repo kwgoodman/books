@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Apr  Canada                                             Richard Ford
 Apr  The Sisters Brothers                               Patrick DeWitt
 Apr  **Harry Potter and the Deathly Hallows** [1]_      J.K. Rowling
 Mar  Al Capone does my Shirts                           Gennifer Choldenko
