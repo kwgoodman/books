@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jun  Six Easy Pieces                                    Richard Feynman
 Jun  Ripper                                             Isabel Allende
 Jun  The Westing Game                                   Ellen Raskin
 Jun  A Brief History of Time                            Stephen Hawking
