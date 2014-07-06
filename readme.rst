@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jul  Red Gold                                           Alan Furst
 Jun  Six Easy Pieces                                    Richard Feynman
 Jun  Ripper                                             Isabel Allende
 Jun  The Westing Game                                   Ellen Raskin
