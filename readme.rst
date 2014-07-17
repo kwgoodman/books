@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jul  The Redbreast                                      Jo Nesbo
 Jul  Red Gold                                           Alan Furst
 Jun  Six Easy Pieces                                    Richard Feynman
 Jun  Ripper                                             Isabel Allende
