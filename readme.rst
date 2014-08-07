@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jul  Kingdom of Shadows                                 Alan Furst
 Jul  Mr. Mercedes                                       Stephen King
 Jul  The Redbreast                                      Jo Nesbo
 Jul  Red Gold                                           Alan Furst
