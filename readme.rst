@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Aug  Into Thin Air                                      Jon Krakauer
 Aug  Never Go Back                                      Lee Child
 Aug  Born to Run                                        Christopher McDougall
 Jul  Kingdom of Shadows                                 Alan Furst
