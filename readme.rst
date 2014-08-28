@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Aug  Ultralight Backpackin' Tips                        Mike Clelland
 Aug  Into Thin Air [1]_                                 Jon Krakauer
 Aug  Never Go Back                                      Lee Child
 Aug  Born to Run                                        Christopher McDougall
