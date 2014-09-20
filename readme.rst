@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Sep  The Ultimate Hiker's Gear Guide                    Andrew Skurka
 Sep  Brave New World                                    Aldous Huxley
 Aug  Ultralight Backpackin' Tips                        Mike Clelland
 Aug  Into Thin Air [1]_                                 Jon Krakauer
