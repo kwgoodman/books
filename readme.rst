@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Oct  1984 [1]_                                          George Orwell
 Sep  The Ultimate Hiker's Gear Guide                    Andrew Skurka
 Sep  Brave New World                                    Aldous Huxley
 Aug  Ultralight Backpackin' Tips                        Mike Clelland
