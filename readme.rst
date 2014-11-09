@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Nov  Bomb                                               Steve Sheinkin
 Nov  What I talk about when I talk about running        Haruki Murakami
 Oct  The Black Hole War                                 Leonard Susskind
 Oct  1984 [1]_                                          George Orwell
