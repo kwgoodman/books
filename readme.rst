@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Dec  Bad Luck and Trouble                               Lee Child
 Dec  Full Catastrophe Living                            Jon Kabat-Zinn
 Nov  The Theoretical Minimum                            Susskind and Hrabovsky
 Nov  Bomb                                               Steve Sheinkin
