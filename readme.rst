@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jan  The River                                          Gary Paulsen
 Jan  Winter's Bone                                      Daniel Woodrell
 Jan  The Diamond Age                                    Neal Stephenson
 ===  ================================================   =======================
