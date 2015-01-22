@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jan  The Strange Library                                Haruki Murakami
 Jan  Buddha's Brain                                     Rick Hanson
 Jan  The River                                          Gary Paulsen
 Jan  Winter's Bone                                      Daniel Woodrell
