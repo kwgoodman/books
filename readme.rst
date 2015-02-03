@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Feb  Looking for Alaska                                 John Green
 Jan  Blood of Victory                                   Alan Furst
 Jan  The Strange Library                                Haruki Murakami
 Jan  Buddha's Brain                                     Rick Hanson
