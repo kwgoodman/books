@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Apr  Data and Goliath                                   Bruce Schneier
 Apr  Stuffocation                                       James Wallman
 Apr  The Grand Design                                   Hawking & Mlodinow
 Apr  A Wanted Man                                       Lee Child
