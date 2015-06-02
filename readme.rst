@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jun  The Black Echo                                     Michael Connelly
 May  The Girl on the Train                              Paula Hawkins
 May  The Martian                                        Andy Weir
 May  The Stench of Honolulu                             Jack Handey
