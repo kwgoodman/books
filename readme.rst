@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jun  Redeployment                                       Phil Klay
 Jun  Seveneves                                          Neal Stephenson  
 Jun  Midnight in Europe                                 Alan Furst
 Jun  The Black Echo                                     Michael Connelly
