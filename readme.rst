@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jul  The Black Ice                                      Michael Connelly
 Jun  Redeployment                                       Phil Klay
 Jun  Seveneves                                          Neal Stephenson  
 Jun  Midnight in Europe                                 Alan Furst
