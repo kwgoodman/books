@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jul  Ghettoside                                         Jill Leovy
 Jul  The Black Ice                                      Michael Connelly
 Jun  Redeployment                                       Phil Klay
 Jun  Seveneves                                          Neal Stephenson  
