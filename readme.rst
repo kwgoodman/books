@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jul  Finders Keepers                                    Stephen King
 Jul  Ghettoside                                         Jill Leovy
 Jul  The Black Ice                                      Michael Connelly
 Jun  Redeployment                                       Phil Klay
