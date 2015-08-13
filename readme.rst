@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Aug  Armada                                             Ernest Cline
 Aug  Annihilation                                       Jeff Vandermeer
 Jul  All Involved                                       Ryan Gattis
 Jul  Finders Keepers                                    Stephen King
