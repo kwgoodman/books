@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Aug  Personal                                           Lee Child
 Aug  Savages                                            Don Winslow
 Aug  Armada                                             Ernest Cline
 Aug  Annihilation                                       Jeff Vandermeer
