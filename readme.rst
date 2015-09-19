@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Sep  Everything I Never Told You                        Celeste Ng
 Sep  Here's Looking at Euclid                           Alex Bellos
 Sep  Real World                                         Natsuo Kirino
 Sep  The Indispensable Calvin and Hobbes                Bill Watterson
