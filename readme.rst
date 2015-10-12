@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Oct  The Things They Carried                            Tim O'Brien
 Oct  Cathedral                                          Raymond Carver
 Oct  No Country for Old Men                             Cormac McCarthy
 Sep  We All Looked Up                                   Tommy Wallach
