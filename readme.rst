@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Oct  Undermajordomo Minor                               Patrick DeWitt
 Oct  The Power of the Dog                               Don Winslow
 Oct  The Things They Carried                            Tim O'Brien
 Oct  Cathedral                                          Raymond Carver
