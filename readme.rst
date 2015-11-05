@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Nov  Gorky Park                                         Martin Cruz Smith
 Oct  Undermajordomo Minor                               Patrick DeWitt
 Oct  The Power of the Dog                               Don Winslow
 Oct  The Things They Carried                            Tim O'Brien
