@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Nov  The Spy Who Came in from the Cold                  John Le Carre
 Nov  All the Pretty Horses                              Cormac McCarthy
 Nov  Hollywood                                          Charles Bukowski
 Nov  Gorky Park                                         Martin Cruz Smith
