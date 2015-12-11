@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Dec  The Cartel                                         Don Winslow
 Nov  The Corrections                                    Jonathan Franzen
 Nov  The Spy Who Came in from the Cold                  John Le Carre
 Nov  All the Pretty Horses                              Cormac McCarthy
