@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Dec  Freedom                                            Jonathan Franzen
 Dec  The Looking Glass War                              John Le Carre
 Dec  The Cartel                                         Don Winslow
 Nov  The Corrections                                    Jonathan Franzen
