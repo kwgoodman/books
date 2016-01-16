@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jan  A Simple Plan                                      Scott Smith
 Jan  The Rosie Project                                  Graeme Simsion
 Jan  The Long Goodbye                                   Raymond Chandler
 ===  ================================================   =======================
