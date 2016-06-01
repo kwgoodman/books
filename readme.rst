@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+May  Kitchen Confidential                               Anthony Bourdain
 May  High Fidelity                                      Nick Hornby
 Apr  The Road to Little Dribbling                       Bill Bryson
 Apr  Tenth of December                                  George Saunders
