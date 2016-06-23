@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jun  Make Me                                            Lee Child
 May  Kitchen Confidential                               Anthony Bourdain
 May  High Fidelity                                      Nick Hornby
 Apr  The Road to Little Dribbling                       Bill Bryson
