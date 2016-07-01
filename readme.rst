@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jul  A Hero of France                                   Alan Furst
 Jun  Make Me                                            Lee Child
 May  Kitchen Confidential                               Anthony Bourdain
 May  High Fidelity                                      Nick Hornby
