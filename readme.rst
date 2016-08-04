@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Jul 	City of Thieves [1]_                               David Benioff
 Jul  A Hero of France                                   Alan Furst
 Jun  Make Me                                            Lee Child
 May  Kitchen Confidential                               Anthony Bourdain
