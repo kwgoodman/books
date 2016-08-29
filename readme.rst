@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Aug  The Particle at the End of the Universe            Sean Carroll
 Aug  The Boys in the Boat                               Daniel James Brown
 Jul 	City of Thieves [1]_                               David Benioff
 Jul  A Hero of France                                   Alan Furst
