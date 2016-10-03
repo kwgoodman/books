@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Oct  A Small Town in Germany                            John le Carre
 Sep  Gone Tomorrow                                      Lee Child
 Aug  The Particle at the End of the Universe            Sean Carroll
 Aug  The Boys in the Boat                               Daniel James Brown
@@ -28,10 +29,10 @@ Jan  The Long Goodbye                                   Raymond Chandler
 
 ===  ================================================   =======================
 Dec  Freedom                                            Jonathan Franzen
-Dec  The Looking Glass War                              John Le Carre
+Dec  The Looking Glass War                              John le Carre
 Dec  The Cartel                                         Don Winslow
 Nov  The Corrections                                    Jonathan Franzen
-Nov  The Spy Who Came in from the Cold                  John Le Carre
+Nov  The Spy Who Came in from the Cold                  John le Carre
 Nov  All the Pretty Horses                              Cormac McCarthy
 Nov  Hollywood                                          Charles Bukowski
 Nov  Gorky Park                                         Martin Cruz Smith
