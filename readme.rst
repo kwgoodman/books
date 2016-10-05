@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   =======================
+Oct  Bernie                                             Ted Rall
 Oct  A Small Town in Germany                            John le Carre
 Sep  Gone Tomorrow                                      Lee Child
 Aug  The Particle at the End of the Universe            Sean Carroll
