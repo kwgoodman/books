@@ -1,7 +1,8 @@
 2016
 ====
 
-===  ================================================   =======================
+===  ================================================   ==========================
+Oct  Seinfeldia                                         Jennifer Keishin Armstrong
 Oct  Bernie                                             Ted Rall
 Oct  A Small Town in Germany                            John le Carre
 Sep  Gone Tomorrow                                      Lee Child
@@ -23,7 +24,7 @@ Jan  Juliet, Naked                                      Nick Hornby
 Jan  A Simple Plan                                      Scott Smith
 Jan  The Rosie Project                                  Graeme Simsion
 Jan  The Long Goodbye                                   Raymond Chandler
-===  ================================================   =======================
+===  ================================================   ==========================
 
 2015
 ====
