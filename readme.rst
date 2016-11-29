@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ==========================
+Nov  Razor Girl                                         Carl Hiaasen
 Nov  The Night Manager                                  John le Carre
 Oct  Seinfeldia                                         Jennifer Keishin Armstrong
 Oct  Bernie                                             Ted Rall
