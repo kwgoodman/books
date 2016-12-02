@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ==========================
+Dec  Seven Brief Lessons on Physics                     Carlo Rovelli
 Nov  Razor Girl                                         Carl Hiaasen
 Nov  The Night Manager                                  John le Carre
 Oct  Seinfeldia                                         Jennifer Keishin Armstrong
