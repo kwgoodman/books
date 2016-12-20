@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ==========================
+Dec  Weapons of Math Destruction                        Cathy O'Neil
 Dec  Mr. Paradise                                       Elmore Leonard
 Dec  Devil in a Blue Dress                              Walter Mosley 
 Dec  Seven Brief Lessons on Physics                     Carlo Rovelli
