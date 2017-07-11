@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ==========================
+Jul  On Tyranny                                         Timothy Snyder
 Jul  The Rise and Fall of D.O.D.O.                      Stephenson & Galland
 Jun  Borne                                              Jeff Vandermeer
 Jun  CivilWarLand in Bad Decline                        George Saunders
