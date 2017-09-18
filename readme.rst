@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ==========================
+Sep  Jonathan Strange & Mr Norrell                      Susanna Clarke
 Aug  Digital Gold                                       Nathaniel Popper
 Jul  Stories of Your Life and Others                    Ted Chiang
 Jul  On Tyranny                                         Timothy Snyder
