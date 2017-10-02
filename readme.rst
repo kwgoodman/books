@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ==========================
+Oct  The Force                                          Don Winslow
 Sep  No Middle Name                                     Lee Child
 Sep  Jonathan Strange & Mr Norrell                      Susanna Clarke
 Aug  Digital Gold                                       Nathaniel Popper
