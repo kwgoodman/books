@@ -1,7 +1,8 @@
 2017
 ====
 
-===  ================================================   ==========================
+===  ================================================   ===========================
+Oct  The Very Persistent Gappers of Frip                George Saunders, Lane Smith
 Oct  The Old Man                                        Thomas Perry
 Oct  Mrs. Fletcher                                      Tom Perrotta
 Oct  The Force                                          Don Winslow
@@ -26,7 +27,7 @@ Feb  The Life and Times of the Thunderbolt Kid          Bill Bryson
 Jan  Road Dogs                                          Elmore Leonard
 Jan  Rocket Boys                                        Homer Hickam
 Jan  Raylan                                             Elmore Leonard
-===  ================================================   ==========================
+===  ================================================   ===========================
 
 2016
 ====
