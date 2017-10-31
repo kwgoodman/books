@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Oct  Chemistry                                          Weike Wang
 Oct  The Very Persistent Gappers of Frip                George Saunders, Lane Smith
 Oct  The Old Man                                        Thomas Perry
 Oct  Mrs. Fletcher                                      Tom Perrotta
