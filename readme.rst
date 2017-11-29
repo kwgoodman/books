@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Nov  Cities of the Plain                                Cormac McCarthy
 Nov  The Red-Haired Woman                               Orhan Pamuk
 Oct  Chemistry                                          Weike Wang
 Oct  The Very Persistent Gappers of Frip                George Saunders, Lane Smith
