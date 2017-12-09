@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Dec  The Midnight Line                                  Lee Child
 Nov  Cities of the Plain                                Cormac McCarthy
 Nov  The Red-Haired Woman                               Orhan Pamuk
 Oct  Chemistry                                          Weike Wang
