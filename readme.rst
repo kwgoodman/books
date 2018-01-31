@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Jan  A Delicate Truth                                   John le Carre
 Jan  The Glass Universe                                 Dava Sobel
 Jan  Life in Code                                       Ellen Ullman
 Jan  Blessed Are Those Who Thirst                       Anne Holt
