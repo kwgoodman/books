@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Feb  Close to the Machine                               Ellen Ullman
 Feb  Persepolis                                         Marjane Satrapi
 Feb  Seeing and Believing                               Richard Panek
 Jan  A Delicate Truth                                   John le Carre
