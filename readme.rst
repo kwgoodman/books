@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Jun  Apollo 8                                           Jeffrey Klugger
 Jun  The Great Gatsby [1]_                              F Scott Fitzgerald
 May  The Cider House Rules                              John Irving
 May  The 57 Bus                                         Dashka Slater
