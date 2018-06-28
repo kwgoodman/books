@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Jun  The Outsider                                       Stephen King
 Jun  Running Blind                                      Lee Child
 Jun  Apollo 8                                           Jeffrey Klugger
 Jun  The Great Gatsby [1]_                              F Scott Fitzgerald
