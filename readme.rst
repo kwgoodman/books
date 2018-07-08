@@ -5,7 +5,7 @@
 Jul  Word by Word                                       Kory Stamper
 Jun  The Outsider                                       Stephen King
 Jun  Running Blind                                      Lee Child
-Jun  Apollo 8                                           Jeffrey Klugger
+Jun  Apollo 8                                           Jeffrey Kluger
 Jun  The Great Gatsby [1]_                              F Scott Fitzgerald
 May  The Cider House Rules                              John Irving
 May  The 57 Bus                                         Dashka Slater
