@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Jul  Word by Word                                       Kory Stamper
 Jun  The Outsider                                       Stephen King
 Jun  Running Blind                                      Lee Child
 Jun  Apollo 8                                           Jeffrey Klugger
