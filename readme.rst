@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Aug  Lost Moon                                          Lovell and Kluger
 Jul  Word by Word                                       Kory Stamper
 Jun  The Outsider                                       Stephen King
 Jun  Running Blind                                      Lee Child
