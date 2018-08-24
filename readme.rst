@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Aug  The Word is Murder                                 Anthony Horowitz
 Aug  Lost Moon                                          Lovell and Kluger
 Jul  Word by Word                                       Kory Stamper
 Jun  The Outsider                                       Stephen King
