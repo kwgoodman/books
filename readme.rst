@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Sep  Casino Royale                                      Ian Fleming
 Aug  The Hundred Thousand Kingdoms                      N K Jemisin
 Aug  The Word is Murder                                 Anthony Horowitz
 Aug  Lost Moon                                          Lovell and Kluger
