@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Sep  Nothing to Lose                                    Lee Child
 Sep  Casino Royale                                      Ian Fleming
 Aug  The Hundred Thousand Kingdoms                      N K Jemisin
 Aug  The Word is Murder                                 Anthony Horowitz
