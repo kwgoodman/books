@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Oct  The Outlaw Album                                   Daniel Woodrell
 Oct  Less                                               Andrew Sean Greer
 Sep  French Exit                                        Patrick DeWitt
 Sep  Nothing to Lose                                    Lee Child
