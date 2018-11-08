@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Nov  A Game of Thrones                                  George RR Martin
 Oct  Brief Answers to the Big Questions                 Stephen Hawking
 Oct  The Outlaw Album                                   Daniel Woodrell
 Oct  Less                                               Andrew Sean Greer
