@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Nov  Radio Free Vermont                                 Bill McKibben
 Nov  Forever and a Day                                  Anthony Horowitz
 Nov  A Game of Thrones                                  George RR Martin
 Oct  Brief Answers to the Big Questions                 Stephen Hawking
