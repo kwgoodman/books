@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Nov  A Clash of Kings                                   George RR Martin
 Nov  Just Mercy                                         Bryan Stevenson
 Nov  Radio Free Vermont                                 Bill McKibben
 Nov  Forever and a Day                                  Anthony Horowitz
