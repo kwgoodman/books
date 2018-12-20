@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Dec  A Storm of Swords                                  George RR Martin
 Dec  Slow Horses                                        Mick Herron
 Nov  A Clash of Kings                                   George RR Martin
 Nov  Just Mercy                                         Bryan Stevenson
