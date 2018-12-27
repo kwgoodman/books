@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Dec  The Affair                                         Lee Child
 Dec  The Fifth Risk                                     Michael Lewis
 Dec  A Storm of Swords                                  George RR Martin
 Dec  Slow Horses                                        Mick Herron
