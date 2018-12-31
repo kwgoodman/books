@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Dec  Dead Lions                                         Mick Herron
 Dec  The Affair                                         Lee Child
 Dec  The Fifth Risk                                     Michael Lewis
 Dec  A Storm of Swords                                  George RR Martin
