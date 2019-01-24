@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Jan  Bachelor Nation                                    Amy Kaufman
 Jan  Past Tense                                         Lee Child
 Jan  Sky of Stone                                       Homer Hickam
 Jan  A Feast for Crows                                  George RR Martin
