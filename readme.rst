@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Mar  The Sun Also Rises                                 Ernest Hemingway
 Mar  Oryx and Crake                                     Margaret Atwood
 Mar  Wild Seed                                          Octavia Butler
 Mar  Old School                                         Tobias Wolff
