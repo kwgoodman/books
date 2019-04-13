@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Apr  Let's Pretend This Never Happened                  Jenny Lawson
 Apr  On Writing                                         Stephen King
 Apr  The Glass Castle                                   Jeannette Walls
 Apr  Spook Street                                       Mick Herron
