@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Apr  The Liar's Club                                    Mary Karr
 Apr  A River Runs through It and Other Stories          Norman Maclean
 Apr  Fox 8                                              George Saunders
 Apr  Let's Pretend This Never Happened                  Jenny Lawson
