@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Apr  The Bluest Eye                                     Toni Morrison
 Apr  What I'd Say to the Martians                       Jack Handey
 Apr  The Liar's Club                                    Mary Karr
 Apr  A River Runs through It and Other Stories          Norman Maclean
