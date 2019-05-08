@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+May  The Kiss Quotient                                  Helen Hoang
 May  Run Away                                           Harlan Coben
 Apr  In Persuasion Nation                               George Saunders
 Apr  The Bluest Eye                                     Toni Morrison
