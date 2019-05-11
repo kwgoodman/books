@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+May  Bookhunter                                         Jason Shiga
 May  Normal People                                      Sally Rooney
 May  The Kiss Quotient                                  Helen Hoang
 May  Run Away                                           Harlan Coben
