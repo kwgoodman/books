@@ -1,7 +1,8 @@
 2019
 ====
 
-===  ================================================   ===========================
+===  ================================================   ===========================                                                 
+May  London Rules                                       Mick Herron
 May  Bookhunter                                         Jason Shiga
 May  Normal People                                      Sally Rooney
 May  The Kiss Quotient                                  Helen Hoang
