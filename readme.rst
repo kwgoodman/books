@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+May  Daisy Jones & The Six                              Taylor Jenkins Reid
 May  Hello World                                        Hannah Fry
 May  London Rules                                       Mick Herron
 May  Bookhunter                                         Jason Shiga
