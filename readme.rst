@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Jun  Cherry                                             Mary Karr
 May  Exhalation                                         Ted Chiang
 May  Daisy Jones & The Six                              Taylor Jenkins Reid
 May  Hello World                                        Hannah Fry
