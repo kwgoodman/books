@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Aug  61 Hours [2]_                                      Lee Child
 Jul  Priestdaddy                                        Patricia Lockwood
 Jul  Fall; or, Dodge in Hell                            Neal Stephenson
 Jun  A Knight of the Seven Kingdoms                     George RR Martin
@@ -434,3 +435,4 @@ Treasure Box    Orson Scott Card
 ==============  ===================
 
 .. [1] Re-read
+.. [2] Audio book
