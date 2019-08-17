@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Aug  Modern Romance [2]_                                Aziz Ansari
 Aug  61 Hours [2]_                                      Lee Child
 Jul  Priestdaddy                                        Patricia Lockwood
 Jul  Fall; or, Dodge in Hell                            Neal Stephenson
