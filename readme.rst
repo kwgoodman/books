@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Aug  The Magician's Nephew [2]_                         CS Lewis
 Aug  Modern Romance [2]_                                Aziz Ansari
 Aug  61 Hours [2]_                                      Lee Child
 Jul  Priestdaddy                                        Patricia Lockwood
