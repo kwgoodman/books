@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Oct  The List                                           Mick Herron
 Oct  True Grit                                          Charles Portis
 Oct  Worth Dying For                                    Lee Child
 Aug  The Magician's Nephew [2]_                         CS Lewis
