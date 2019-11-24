@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Nov  Calming Your Anxious Mind                          Jeffrey Brantley
 Nov  Skin Tight                                         Carl Hiaasen
 Oct  The List                                           Mick Herron
 Oct  True Grit                                          Charles Portis
