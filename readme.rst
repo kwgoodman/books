@@ -2,7 +2,7 @@
 ====
 
 ===  ================================================   ===========================
-Nov  Lonesome Dove                                      Larry McMurtry
+Nov  Lonesome Dove [1]_                                 Larry McMurtry
 Nov  Calming Your Anxious Mind                          Jeffrey Brantley
 Nov  Skin Tight                                         Carl Hiaasen
 Oct  The List                                           Mick Herron
