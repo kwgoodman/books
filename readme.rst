@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Dec  Under Occupation                                   Alan Furst
 Nov  Guts                                               Raina Telgemeier
 Nov  Lonesome Dove [1]_                                 Larry McMurtry
 Nov  Calming Your Anxious Mind                          Jeffrey Brantley
