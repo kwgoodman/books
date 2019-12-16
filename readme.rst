@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Dec  The Name of the Wind                               Patrick Rothfuss
 Dec  Under Occupation                                   Alan Furst
 Nov  Guts                                               Raina Telgemeier
 Nov  Lonesome Dove [1]_                                 Larry McMurtry
