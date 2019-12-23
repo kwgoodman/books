@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Dec  Lit                                                Mary Karr
 Dec  The Name of the Wind                               Patrick Rothfuss
 Dec  Under Occupation                                   Alan Furst
 Nov  Guts                                               Raina Telgemeier
