@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Jan  Where the Crawdads Sing                            Delia Owens
 Jan  Tripwire                                           Lee Child
 Jan  The Institute                                      Stephen King
 Jan  The Year of the Flood                              Margaret Atwood
