@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Feb  I Love You, Beth Cooper [1]_                       Larry Doyle
 Feb  The Concrete Blonde                                Michael Connelly
 Feb  The Trouble with Gravity                           Richard Panek
 Jan  Where the Crawdads Sing                            Delia Owens
