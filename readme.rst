@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Apr  The Last Coyote                                    Michael Connelly
 Apr  Joyland                                            Stephen King
 Apr  The Bean Trees                                     Barbara Kingsolver
 Apr  Born a Crime                                       Trevor Noah
