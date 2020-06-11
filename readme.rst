@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Jun  A Visit from the Goon Squad                        Jennifer Egan 
 May  The Border                                         Don Winslow
 May  Just Kids                                          Patti Smith
 May  Carrie                                             Stephen King
