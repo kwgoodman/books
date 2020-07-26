@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Jul  American Dirt                                      Jeanine Cummins
 Jul  Blue Moon                                          Lee Child
 Jul  The Poet                                           Michael Connelly
 Jun  A Visit from the Goon Squad                        Jennifer Egan 
