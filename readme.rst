@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Aug  Tenth of December                                  George Saunders
 Jul  Unorthodox                                         Deborah Feldman
 Jul  American Dirt                                      Jeanine Cummins
 Jul  Blue Moon                                          Lee Child
