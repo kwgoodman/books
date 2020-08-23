@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Aug  Manhattan Beach                                    Jennifer Egan
 Aug  Trunk Music                                        Michael Connelly
 Aug  Tenth of December [1]_                             George Saunders
 Jul  Unorthodox                                         Deborah Feldman
