@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Sep  One Summer                                         Bill Bryson
 Aug  Say Nothing                                        Patrick Radden Keefe
 Aug  Manhattan Beach                                    Jennifer Egan
 Aug  Trunk Music                                        Michael Connelly
