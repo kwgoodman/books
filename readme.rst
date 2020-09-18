@@ -20,7 +20,7 @@ May  Carrie                                             Stephen King
 Apr  The Last Coyote                                    Michael Connelly
 Apr  Joyland                                            Stephen King
 Apr  The Bean Trees                                     Barbara Kingsolver
-Apr  Born a Crime                                       Trevor Noah '
+Apr  Born a Crime                                       Trevor Noah
 Mar  Life                                               Keith Richards
 Mar  Echo Burning                                       Lee Child
 Mar  The Poisonwood Bible                               Barbara Kingsolver
