@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Sep  The How of Happiness                               Sonja Lyubomirsky
 Sep  Fingersmith                                        Sarah Waters
 Sep  The Grandmaster                                    Brin-Jonathan Butler
 Sep  One Summer                                         Bill Bryson
