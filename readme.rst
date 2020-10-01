@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Sep  Exit West                                          Mohsin Hamid     
 Sep  The How of Happiness                               Sonja Lyubomirsky
 Sep  Fingersmith                                        Sarah Waters
 Sep  The Grandmaster                                    Brin-Jonathan Butler
@@ -23,7 +24,7 @@ Apr  Joyland                                            Stephen King
 Apr  The Bean Trees                                     Barbara Kingsolver
 Apr  Born a Crime                                       Trevor Noah
 Mar  Life                                               Keith Richards
-Mar  Echo Burning                                       Lee Child
+Mar  Echo Burning                                       Lee Chil
 Mar  The Poisonwood Bible                               Barbara Kingsolver
 Feb  Uncanny Valley                                     Anna Wiener
 Feb  I Love You, Beth Cooper [1]_                       Larry Doyle
