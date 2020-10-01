@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Sep  Weather                                            Jenny Offill
 Sep  Exit West                                          Mohsin Hamid     
 Sep  The How of Happiness                               Sonja Lyubomirsky
 Sep  Fingersmith                                        Sarah Waters
