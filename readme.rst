@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Oct  The Story of More                                  Hope Jahren
 Sep  Weather                                            Jenny Offill
 Sep  Exit West                                          Mohsin Hamid     
 Sep  The How of Happiness                               Sonja Lyubomirsky
