@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Oct  The End of Everything                              Katie Mack
 Oct  The Awkward Black Man                              Walter Mosley
 Oct  Barbarian Days                                     William Finnegan
 Oct  The Story of More                                  Hope Jahren
