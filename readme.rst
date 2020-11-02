@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Nov  The Sentinel                                       Lee Child, Andrew Child
 Oct  The End of Everything                              Katie Mack
 Oct  The Awkward Black Man                              Walter Mosley
 Oct  Barbarian Days                                     William Finnegan
