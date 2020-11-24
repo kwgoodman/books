@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Nov  If It Bleeds                                       Stephen King
 Nov  Six of Crows                                       Leigh Bardugo
 Nov  The Sentinel                                       Lee Child, Andrew Child
 Oct  The End of Everything                              Katie Mack
