@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Dec  Joe Country                                        Mick Herron
 Nov  If It Bleeds                                       Stephen King
 Nov  Six of Crows                                       Leigh Bardugo
 Nov  The Sentinel                                       Lee Child, Andrew Child
