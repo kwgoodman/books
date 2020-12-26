@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Dec  Severance                                          Ling Ma
 Dec  Joe Country                                        Mick Herron
 Nov  If It Bleeds                                       Stephen King
 Nov  Six of Crows                                       Leigh Bardugo
