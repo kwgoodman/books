@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Jan  Ready Player Two                                   Ernest Cline
 Jan  The Sentence is Death                              Anthony Horowitz
 Jan  News of the World                                  Paulette Jiles
 Jan  The Queen's Gambit                                 Walter Tevis
