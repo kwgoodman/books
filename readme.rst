@@ -20,6 +20,7 @@ Nov  Six of Crows                                       Leigh Bardugo
 Nov  The Sentinel                                       Lee Child, Andrew Child
 Oct  The End of Everything                              Katie Mack
 Oct  The Awkward Black Man                              Walter Mosley
+Oct  Blood Work                                         Michael Connelly
 Oct  Barbarian Days                                     William Finnegan
 Oct  The Story of More                                  Hope Jahren
 Sep  Weather                                            Jenny Offill
