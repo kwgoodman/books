@@ -2,6 +2,7 @@
 ====
 
 ===  ================================================   ===========================
+Feb  Anxious People                                     Fredrik Backman
 Feb  Infinite Powers                                    Steven Strogatz
 Feb  Longitude                                          Dava Sobel
 Feb  Gone to the Woods                                  Gary Paulsen                     
